@@ -1,3 +1,5 @@
+## Demo App (https://counter-ui-react.herokuapp.com/)
+
 # Offshorly FullStack Test
 
 You need to create a simple counter application using `NodeJS`, `Postgres` and `React` that can do the following:
